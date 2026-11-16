@@ -1,0 +1,24 @@
+{
+    "harvi": {
+        "member_id": 2660,
+        "borrowed_books": []
+    },
+    "hardi": {
+        "member_id": 8010,
+        "borrowed_books": []
+    },
+    "arvi": {
+        "member_id": 6042,
+        "borrowed_books": []
+    },
+    "shailesh": {
+        "member_id": 5562,
+        "borrowed_books": [
+            "Ds"
+        ]
+    },
+    "harsh": {
+        "member_id": 6801,
+        "borrowed_books": []
+    }
+}
